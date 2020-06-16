@@ -1,1 +1,10 @@
-helloworld
+# The Emojify 
+
+We are going to use word vector representations to build an Emojifier. 
+
+If we want to make our text messages more expressive? Our emojifier app will help us do that. 
+So rather than writing:
+>"Congratulations on the promotion! Let's get coffee and talk. Love you!"   
+
+The emojifier can automatically turn this into:
+>"Congratulations on the promotion! 👍 Let's get coffee and talk. ☕️ Love you! ❤️"
